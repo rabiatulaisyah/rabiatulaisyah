@@ -1,15 +1,16 @@
 # About me
 
 ## Education
-- Bachelor of Science in Management Mathematics with Honors, Major in Data Analytics | Universiti Teknologi Mara Kampus Seremban 3, Seremban, Negeri Sembilan (_2019-2023_)					       		
-- Matriculation Programme of Accounting	| Kolej Matrikulasi Negeri Sembilan, Kuala Pilah, Negeri Sembilan (_2018-2019_)	 			        		
-- Sijil Pelajaran Malaysia (SPM) | SMK Bandar Baru Salak Tinggi, Sepang, Selangor (_2013-2017_)
+
+-Bachelor of Science in Management Mathematics with Honors, Major in Data Analytics | Universiti Teknologi Mara Kampus Seremban 3, Seremban, Negeri Sembilan (_2019-2023_)					       		
+-Matriculation Programme of Accounting	| Kolej Matrikulasi Negeri Sembilan, Kuala Pilah, Negeri Sembilan (_2018-2019_)	 			        		
+-Sijil Pelajaran Malaysia (SPM) | SMK Bandar Baru Salak Tinggi, Sepang, Selangor (_2013-2017_)
 
 ## Projects
 ### Final Year Research Project: Application of Fibonacci Retracement in Movement of Stock Market
 [Show More](https://drive.google.com/file/d/179-G0LRvAo7m4jbyP0NvBvNzaliAVBC9/view?usp=share_link)
 
-Cleansed and combined data from 10+ public data sources to analyze the movement of the stock market during COVID- 19 in **Microsoft Excel** and measured the prediction on the price of the stock market using the Fibonacci Retracement method.
+- Cleansed and combined data from 10+ public data sources to analyze the movement of the stock market during COVID- 19 in **Microsoft Excel** and measured the prediction on the price of the stock market using the Fibonacci Retracement method.
 
 ###  Solving Vehicle Route Problem 
 [Show More](https://colab.research.google.com/drive/1LkV3JdsYze2FNazSZDfqGSsPRG_ZeJLv?usp=share_link)
@@ -30,7 +31,7 @@ Cleansed and combined data from 10+ public data sources to analyze the movement 
 ### Time Series and Forecasting: UNIVARIATE AND BOX-JENKINS METHODOLOGY
 [Show More](https://drive.google.com/file/d/16I-g79oD6mGoVDbB30eCIOttVU04G0b4/view?usp=share_link)
 
--Finding the best forecasting model using **Excel** and **EViews**
+- Finding the best forecasting model using **Excel** and **EViews**
 
 ### Company User Manual
 [Show More](https://drive.google.com/file/d/10xDUs74dCw2tYUsBgc-kGhkTXkSq6uJz/view?usp=share_link)
@@ -90,7 +91,7 @@ contributing to the overall efficiency and excellence of store operations.
 customer demands and maintain optimal store performance.
 
 #### Technical Skills: 
-Python, Tableau, R Studio, MS Office, RapidMiner, MathLab, Maple, Google Sheet, SQL, NoSQL, ARENA Software, Forecasting, and MongoDB
+- Python, Tableau, R Studio, MS Office, RapidMiner, MathLab, Maple, Google Sheet, SQL, NoSQL, ARENA Software, Forecasting, and MongoDB
 
 #### Interpersonal Skills: 
 - Communication: Skilled at clear and effective communication through various means.
