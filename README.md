@@ -2,9 +2,9 @@
 
 ## Education
 
-- Bachelor of Science in Management Mathematics with Honors, Major in Data Analytics @ Universiti Teknologi Mara Kampus Seremban 3, Seremban, Negeri Sembilan | (_2019-2023_)					       		
-- Matriculation Programme of Accounting	@ Kolej Matrikulasi Negeri Sembilan, Kuala Pilah, Negeri Sembilan | (_2018-2019_)	 			        		
-- Sijil Pelajaran Malaysia (SPM) @ SMK Bandar Baru Salak Tinggi, Sepang, Selangor | (_2013-2017_)
+- Bachelor of Science in Management Mathematics with Honors, Major in Data Analytics @ Universiti Teknologi Mara Kampus Seremban 3, Seremban, Negeri Sembilan  (_2019-2023_)					       		
+- Matriculation Programme of Accounting	@ Kolej Matrikulasi Negeri Sembilan, Kuala Pilah, Negeri Sembilan  (_2018-2019_)	 			        		
+- Sijil Pelajaran Malaysia (SPM) @ SMK Bandar Baru Salak Tinggi, Sepang, Selangor  (_2013-2017_)
 
 ## Projects
 ### Final Year Research Project: Application of Fibonacci Retracement in Movement of Stock Market
@@ -24,7 +24,7 @@
 - Developed descriptive modeling data using Tableau and predictive modeling using RapidMiner
 
 ### Car Rental System
-
+![Car Rental System](/assets/Image/Copy of CAR RENTAL SYSTEM.png)
 [Show More](https://drive.google.com/file/d/1EgQkcxGiSEKYmnQwOwdfqovwtmDqN1p8/view?usp=share_link)
 
 - This project aims to create an information system using **Excel Vlookup** for customers to register and reserve cars, storing data about car rentals. Users can enter personal information like name, address, NRIC number, phone number, and gender. The system calculates car rental times and provides a result interface divided into customer and car rental sections. Data validation is used for easy display and tracking of customer records. 
