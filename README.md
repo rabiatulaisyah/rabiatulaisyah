@@ -8,7 +8,7 @@
 
 ## Projects
 ### Final Year Research Project: Application of Fibonacci Retracement in Movement of Stock Market
-[Show More](https://drive.google.com/file/d/179-G0LRvAo7m4jbyP0NvBvNzaliAVBC9/view?usp=share_link)
+[Show More](https://drive.google.com/file/d/14QVX14nNdUl-mkY7pyy8rnhM9g3x1oRS/view?usp=share_link)
 
 - Cleansed and combined data from 10+ public data sources to analyze the movement of the stock market during COVID- 19 in **Microsoft Excel** and measured the prediction on the price of the stock market using the Fibonacci Retracement method.
 
