@@ -2,9 +2,9 @@
 
 ## Education
 
--Bachelor of Science in Management Mathematics with Honors, Major in Data Analytics | Universiti Teknologi Mara Kampus Seremban 3, Seremban, Negeri Sembilan (_2019-2023_)					       		
--Matriculation Programme of Accounting	| Kolej Matrikulasi Negeri Sembilan, Kuala Pilah, Negeri Sembilan (_2018-2019_)	 			        		
--Sijil Pelajaran Malaysia (SPM) | SMK Bandar Baru Salak Tinggi, Sepang, Selangor (_2013-2017_)
+- Bachelor of Science in Management Mathematics with Honors, Major in Data Analytics @ Universiti Teknologi Mara Kampus Seremban 3, Seremban, Negeri Sembilan (_2019-2023_)					       		
+- Matriculation Programme of Accounting	@ Kolej Matrikulasi Negeri Sembilan, Kuala Pilah, Negeri Sembilan (_2018-2019_)	 			        		
+- Sijil Pelajaran Malaysia (SPM) @ SMK Bandar Baru Salak Tinggi, Sepang, Selangor (_2013-2017_)
 
 ## Projects
 ### Final Year Research Project: Application of Fibonacci Retracement in Movement of Stock Market
