@@ -1,7 +1,5 @@
 # About me
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
 ## Education
 - Bachelor of Science in Management Mathematics with Honors, Major in Data Analytics | Universiti Teknologi Mara Kampus Seremban 3, Seremban, Negeri Sembilan (_2019-2023_)					       		
 - Matriculation Programme of Accounting	| Kolej Matrikulasi Negeri Sembilan, Kuala Pilah, Negeri Sembilan (_2018-2019_)	 			        		
@@ -9,49 +7,102 @@
  | SMK Bandar Baru Salak Tinggi, Sepang, Selangor (_2013-2017_)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Final Year Research Project: Application of Fibonacci Retracement in Movement of Stock Market
+[Show More](https://drive.google.com/file/d/179-G0LRvAo7m4jbyP0NvBvNzaliAVBC9/view?usp=share_link)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Cleansed and combined data from 10+ public data sources to analyze the movement of the stock market during COVID- 19 in **Microsoft Excel** and measured the prediction on the price of the stock market using the Fibonacci Retracement method.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+###  Solving Vehicle Route Problem 
+[Show More](https://colab.research.google.com/drive/1LkV3JdsYze2FNazSZDfqGSsPRG_ZeJLv?usp=share_link)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Learned to create optimal routes and network graphs for multiple vehicles visiting a set of locations with the least total distance.
+- Algorithm development using **Python**.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+### A Classification of iPhone 11 user review
+[Show More](https://drive.google.com/file/d/17UVPsDact4kcbweQWO-u4AhxbfXd8sO_/view?usp=share_link)
+- Scrapped and cleaned data from Twitter using web scrapping tools.
+- Developed descriptive modeling data using Tableau and predictive modeling using RapidMiner
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### Car Rental System
+[Show More](https://drive.google.com/file/d/1EgQkcxGiSEKYmnQwOwdfqovwtmDqN1p8/view?usp=share_link)
+
+-This project aims to create an information system using **Excel Vlookup** for customers to register and reserve cars, storing data about car rentals. Users can enter personal information like name, address, NRIC number, phone number, and gender. The system calculates car rental times and provides a result interface divided into customer and car rental sections. Data validation is used for easy display and tracking of customer records. 
+
+### Time Series and Forecasting: UNIVARIATE AND BOX-JENKINS METHODOLOGY
+[Show More](https://drive.google.com/file/d/16I-g79oD6mGoVDbB30eCIOttVU04G0b4/view?usp=share_link)
+
+-Finding the best forecasting model using **Excel** and **EViews**
+
+### Company User Manual
+[Show More](https://drive.google.com/file/d/10xDUs74dCw2tYUsBgc-kGhkTXkSq6uJz/view?usp=share_link)
+
+- Creating user manual for a end user to effectively utilise service and to resolve issues that may come up during usage. 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**IT Executive @ Swipe Malaysia Sdn Bhd, Cyberjaya, Selangor (_February 2023 - Present_)**
+- Involved with the development of manual test scripts to ensure comprehensive and rigorous testing of software
+functionality, maintaining a commitment to the highest quality standards.
+- Facilitated User Acceptance Testing in collaboration with Edaran Bhd and Felda.
+- Collaborated closely with the testing team to formulate and implement effective testing methodologies, fostering a
+collaborative and results-driven testing environment.
+- Demonstrated meticulous attention to detail during extensive testing efforts, adeptly identifying and documenting
+software flaws and discrepancies and ensuring a thorough evaluation of system performance.
+- Played a pivotal role in elevating software quality by actively engaging in constructive criticism and offering valuable
+suggestions for improvement, contributing to a culture of continuous enhancement.
+- Maintained meticulous documentation of test procedures and findings, ensuring a well-organized and accessible
+repository of critical information for reference and reporting purposes.
+- Actively participated in cross-functional teams to streamline testing processes, identify areas for optimization, and
+enhance overall software quality assurance practices.
+- Collaborated with software development teams to facilitate effective communication and understanding of testing
+requirements, ensuring alignment with project goals and timelines.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Operations Trainee - Internship @ Swipe Malaysia Sdn Bhd, Cyberjaya, Selangor (_September 2022 - January 2023_)**
+- Diligently monitored daily cash flow and meticulously prepared comprehensive reports, ensuring accurate and up-to-
+date financial records.
+- Prepared daily reports to provide valuable insights into financial performance.
+- Actively engaged in shadowing management, gaining firsthand knowledge and insights into the intricacies of day-to-day
+operations, and assimilating practical industry experience.
+- Contributed to the recording and maintenance of financial records, demonstrating meticulous attention to detail and a
+commitment to data accuracy and integrity.
+- Exhibited proficiency in data entry tasks, consistently performing with precision and attention to detail while efficiently
+inputting critical financial data and maintaining data quality standards.
+- Collaborated with cross-functional teams to support financial analysis and reporting efforts, fostering a cooperative and
+results-oriented work environment.
+- Participated in ad-hoc projects and assignments, demonstrating versatility and adaptability in handling various financial
+tasks and challenges.
 
+**Part-Time Food Server @ LLaollao Woodpeckers Group SDN BHD, Nilai, Negeri Sembilan (_April 2021 - June 2022_)**
+- Demonstrated exceptional cash management skills, achieving the highest monthly sales record in the store by efficiently
+handling cash transactions.
+- Proficiently processed customer transactions through software systems, ensuring accuracy and efficiency in payment
+processing.
+- Assumed the role of a trainer, providing comprehensive training to new employees in accordance with the company's
+Standard Operating Procedures (SOPs), contributing to their successful onboarding and integration into the team.
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+**Juicerista @ Vitality Boost Sdn Bhd, Nilai, Negeri Sembilan (_December 2020 - April 2021_)**
+- Provided excellent service and upheld quality standards for food and products.
+- Followed company values and strategies as directed by the Management Team.
+- Exhibited strong communication skills by effectively, efficiently, and constructively liaising with Store Crews, Team
+Leaders, Assistant Store Managers, Store Managers, Area Managers, and Support Centre staff, ensuring seamless
+information flow and collaboration.
+- Identified areas for store enhancement and played an active role in implementing continuous improvements,
+contributing to the overall efficiency and excellence of store operations.
+- Responsible for the logistical aspects of stock management, ensuring the smooth and efficient flow of inventory to meet
+customer demands and maintain optimal store performance.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+#### Technical Skills: Python, Tableau, R Studio, MS Office, RapidMiner, MathLab, Maple, Google Sheet, SQL, NoSQL, ARENA Software, Forecasting, and MongoDB
+
+### Interpersonal Skills: 
+- Communication: Skilled at clear and effective communication through various means.
+- Problem-Solving: Able to identify and solve challenges effectively.
+- Teamwork: A collaborative team player who works well with others to achieve common goals.
+
+## Reference
+Mardhiah Hayati Binti Md Zain
+Chief Operation Officer
+Swipe Malaysia Sdn Bhd, Cyberjaya, Selangor
+[Linkedin](https://www.linkedin.com/in/mardhiah-hayati-md-zain-21152a42/)
