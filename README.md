@@ -2,7 +2,6 @@
 
 ## Education
 - Bachelor of Science in Management Mathematics with Honors, Major in Data Analytics | Universiti Teknologi Mara Kampus Seremban 3, Seremban, Negeri Sembilan (_2019-2023_)					       		
-
 - Matriculation Programme of Accounting	| Kolej Matrikulasi Negeri Sembilan, Kuala Pilah, Negeri Sembilan (_2018-2019_)	 			        		
 - Sijil Pelajaran Malaysia (SPM) | SMK Bandar Baru Salak Tinggi, Sepang, Selangor (_2013-2017_)
 
@@ -90,7 +89,8 @@ contributing to the overall efficiency and excellence of store operations.
 - Responsible for the logistical aspects of stock management, ensuring the smooth and efficient flow of inventory to meet
 customer demands and maintain optimal store performance.
 
-#### Technical Skills: Python, Tableau, R Studio, MS Office, RapidMiner, MathLab, Maple, Google Sheet, SQL, NoSQL, ARENA Software, Forecasting, and MongoDB
+#### Technical Skills: 
+Python, Tableau, R Studio, MS Office, RapidMiner, MathLab, Maple, Google Sheet, SQL, NoSQL, ARENA Software, Forecasting, and MongoDB
 
 #### Interpersonal Skills: 
 - Communication: Skilled at clear and effective communication through various means.
