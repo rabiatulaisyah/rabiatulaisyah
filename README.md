@@ -2,9 +2,9 @@
 
 ## Education
 - Bachelor of Science in Management Mathematics with Honors, Major in Data Analytics | Universiti Teknologi Mara Kampus Seremban 3, Seremban, Negeri Sembilan (_2019-2023_)					       		
+
 - Matriculation Programme of Accounting	| Kolej Matrikulasi Negeri Sembilan, Kuala Pilah, Negeri Sembilan (_2018-2019_)	 			        		
-- Sijil Pelajaran Malaysia (SPM)
- | SMK Bandar Baru Salak Tinggi, Sepang, Selangor (_2013-2017_)
+- Sijil Pelajaran Malaysia (SPM) | SMK Bandar Baru Salak Tinggi, Sepang, Selangor (_2013-2017_)
 
 ## Projects
 ### Final Year Research Project: Application of Fibonacci Retracement in Movement of Stock Market
@@ -92,7 +92,7 @@ customer demands and maintain optimal store performance.
 
 #### Technical Skills: Python, Tableau, R Studio, MS Office, RapidMiner, MathLab, Maple, Google Sheet, SQL, NoSQL, ARENA Software, Forecasting, and MongoDB
 
-### Interpersonal Skills: 
+#### Interpersonal Skills: 
 - Communication: Skilled at clear and effective communication through various means.
 - Problem-Solving: Able to identify and solve challenges effectively.
 - Teamwork: A collaborative team player who works well with others to achieve common goals.
