@@ -16,12 +16,12 @@
 [Show Project](https://colab.research.google.com/drive/1LkV3JdsYze2FNazSZDfqGSsPRG_ZeJLv?usp=share_link)
 
 - Learned to create optimal routes and network graphs for multiple vehicles visiting a set of locations with the least total distance.
-- Algorithm development using **Python**.
+- Data Extraxted and Algorithm development using **Python**.
 
 ### A Classification of iPhone 11 user review
 [Show Project](https://drive.google.com/file/d/17UVPsDact4kcbweQWO-u4AhxbfXd8sO_/view?usp=share_link)
-- Scrapped and cleaned data from Twitter using web scrapping tools.
-- Developed descriptive modeling data using Tableau and predictive modeling using RapidMiner
+- Scrapped and cleaned data from Twitter using web scrapping tools called **PaarseHub**.
+- Developed descriptive modeling data using **Tableau** and predictive modeling using **RapidMiner**
 
 ### Car Rental System
 ![Car Rental System](/assets/Image/Copy of CAR RENTAL SYSTEM.png)
