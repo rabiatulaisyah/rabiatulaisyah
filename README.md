@@ -7,29 +7,30 @@
 - Sijil Pelajaran Malaysia (SPM) @ SMK Bandar Baru Salak Tinggi, Sepang, Selangor  (_2013-2017_)
 
 ## Projects
-### [Final Year Research Project: Application of Fibonacci Retracement in Movement of Stock Market](https://drive.google.com/file/d/14QVX14nNdUl-mkY7pyy8rnhM9g3x1oRS/view?usp=share_link)
+### Final Year Research Project: Application of Fibonacci Retracement in Movement of Stock Market
+[Show Project](https://drive.google.com/file/d/14QVX14nNdUl-mkY7pyy8rnhM9g3x1oRS/view?usp=share_link)
 
 - Cleansed and combined data from 10+ public data sources to analyze the movement of the stock market during COVID- 19 in **Microsoft Excel** and measured the prediction on the price of the stock market using the Fibonacci Retracement method.
 
 ###  Solving Vehicle Route Problem 
-[Show More](https://colab.research.google.com/drive/1LkV3JdsYze2FNazSZDfqGSsPRG_ZeJLv?usp=share_link)
+[Show Project](https://colab.research.google.com/drive/1LkV3JdsYze2FNazSZDfqGSsPRG_ZeJLv?usp=share_link)
 
 - Learned to create optimal routes and network graphs for multiple vehicles visiting a set of locations with the least total distance.
 - Algorithm development using **Python**.
 
 ### A Classification of iPhone 11 user review
-[Show More](https://drive.google.com/file/d/17UVPsDact4kcbweQWO-u4AhxbfXd8sO_/view?usp=share_link)
+[Show Project](https://drive.google.com/file/d/17UVPsDact4kcbweQWO-u4AhxbfXd8sO_/view?usp=share_link)
 - Scrapped and cleaned data from Twitter using web scrapping tools.
 - Developed descriptive modeling data using Tableau and predictive modeling using RapidMiner
 
 ### Car Rental System
 ![Car Rental System](/assets/Image/Copy of CAR RENTAL SYSTEM.png)
-[Show More](https://drive.google.com/file/d/1EgQkcxGiSEKYmnQwOwdfqovwtmDqN1p8/view?usp=share_link)
+[Show Project](https://drive.google.com/file/d/1EgQkcxGiSEKYmnQwOwdfqovwtmDqN1p8/view?usp=share_link)
 
 - This project aims to create an information system using **Excel Vlookup** for customers to register and reserve cars, storing data about car rentals. Users can enter personal information like name, address, NRIC number, phone number, and gender. The system calculates car rental times and provides a result interface divided into customer and car rental sections. Data validation is used for easy display and tracking of customer records. 
 
 ### Time Series and Forecasting: UNIVARIATE AND BOX-JENKINS METHODOLOGY
-[Show More](https://drive.google.com/file/d/16I-g79oD6mGoVDbB30eCIOttVU04G0b4/view?usp=share_link)
+[Show Project](https://drive.google.com/file/d/16I-g79oD6mGoVDbB30eCIOttVU04G0b4/view?usp=share_link)
 
 - Finding the best forecasting model using **Excel** and **EViews**
 
