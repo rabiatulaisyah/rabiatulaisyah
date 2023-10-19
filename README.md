@@ -35,7 +35,7 @@
 - Finding the best forecasting model using **Excel** and **EViews**
 
 ### Company User Manual
-[Show More](https://drive.google.com/file/d/10xDUs74dCw2tYUsBgc-kGhkTXkSq6uJz/view?usp=share_link)
+[Show Project](https://drive.google.com/file/d/10xDUs74dCw2tYUsBgc-kGhkTXkSq6uJz/view?usp=share_link)
 
 - Creating user manual for a end user to effectively utilise service and to resolve issues that may come up during usage. 
 
