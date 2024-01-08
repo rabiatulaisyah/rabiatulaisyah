@@ -8,6 +8,11 @@
 
 ## Projects
 ### Power BI Project: Sales Performance for California County
+![Sales Performance](/assets/Image/Power BI Sales Perfomance.png)
+- Treating Data and Organising databases with ETL (Extract, Transform, Load)
+- Create new table using **M-Language**
+- Make calculation using **DAX Language**
+  
 ### Final Year Research Project: Application of Fibonacci Retracement in Movement of Stock Market
 [Show Project](https://drive.google.com/file/d/14QVX14nNdUl-mkY7pyy8rnhM9g3x1oRS/view?usp=share_link)
 
