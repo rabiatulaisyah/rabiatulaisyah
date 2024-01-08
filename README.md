@@ -7,6 +7,7 @@
 - Sijil Pelajaran Malaysia (SPM) @ SMK Bandar Baru Salak Tinggi, Sepang, Selangor  (_2013-2017_)
 
 ## Projects
+### Power BI Project: Sales Performance for California County
 ### Final Year Research Project: Application of Fibonacci Retracement in Movement of Stock Market
 [Show Project](https://drive.google.com/file/d/14QVX14nNdUl-mkY7pyy8rnhM9g3x1oRS/view?usp=share_link)
 
